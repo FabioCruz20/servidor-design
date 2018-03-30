@@ -1,0 +1,22 @@
+{
+  "name": "servidor",
+  "version": "1.0.0",
+  "description": "Servidor para o projeto da empresa de design de interiores.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabioCruz20/servidor-design.git"
+  },
+  "author": "Fabio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FabioCruz20/servidor-design/issues"
+  },
+  "homepage": "https://github.com/FabioCruz20/servidor-design#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
